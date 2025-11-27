@@ -1,0 +1,19 @@
+name: 522demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - conda=25.7.0
+  - mamba=2.1.1
+  - pip
+  - otter-grader
+  - jupyterlab
+  - pandas
+  - jupytext
+  - jupyterlab-git
+  - jupyterlab-spellchecker
+  - numpy
+  - altair
+  - pandoc
+  - matplotlib
+  - nb_conda_kernels
